@@ -58,3 +58,16 @@ b. Parallel: 1000000.0 Bytes/s
 
 ### g. Unmöglichkeit der Umwandlung der Dezimalzahl +150 in einen vorzeichenbehafteten Binärwert
 Der Wertebereich für signed integers bei einer Datenbusbreite von 1 Byte (-128 bis +127) erlaubt es nicht, die Dezimalzahl +150 darzustellen. Dies verdeutlicht die Notwendigkeit, den korrekten Datentyp und die Größe für die jeweilige Anwendung zu wählen.
+
+
+### Die Wahrheitstabelle für die logische EXOR-Funktion (auch XOR genannt) mit zwei Eingängen sieht wie folgt aus:
+A | B | A XOR B
+---------------
+0 | 0 |   0
+0 | 1 |   1
+1 | 0 |   1
+1 | 1 |   0
+ 
+ 
+### Zusatzaufgabe: 
+Das binäre Äquivalent von -35 im 2er-Komplement mit 8 Bits ist 1101'1101
